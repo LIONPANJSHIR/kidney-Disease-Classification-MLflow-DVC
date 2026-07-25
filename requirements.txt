@@ -1,0 +1,60 @@
+# Deep learning : création et entraînement du CNN
+tensorflow==2.12.0
+
+# Manipulation et analyse des données
+pandas
+
+# Versionnement des données et des pipelines ML
+dvc
+
+# Suivi des expériences, paramètres, métriques et modèles
+mlflow==2.2.2
+
+# Exécution des notebooks Jupyter
+notebook
+
+# Calcul numérique et manipulation des tableaux
+# TensorFlow 2.12 exige NumPy >= 1.22 et < 1.24
+numpy>=1.22,<1.24
+
+# Création de graphiques
+matplotlib
+
+# Visualisations statistiques basées sur Matplotlib
+seaborn
+
+# Affichage de barres de progression
+tqdm
+
+# Validation des types et des valeurs
+ensure==1.0.2
+
+# Calcul scientifique : statistiques, algèbre, optimisation, etc.
+scipy
+
+# Création de l’application web
+Flask
+
+# Autorise les requêtes entre différentes origines
+# Utile si un frontend communique avec l’API Flask
+Flask-Cors
+
+# Téléchargement de fichiers stockés sur Google Drive
+gdown
+
+# Lecture et écriture des fichiers YAML
+PyYAML
+
+# Sauvegarde et chargement d’objets ou de modèles Python
+joblib
+
+# Informations de typage pour PyYAML
+types-PyYAML
+
+# Manipulation des dictionnaires avec une notation par attribut
+# Exemple : config.model.name
+python-box==6.0.2
+
+# Installe le projet local en mode éditable
+# Nécessite un setup.py ou un pyproject.toml valide
+-e .
