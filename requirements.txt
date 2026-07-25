@@ -55,6 +55,8 @@ types-PyYAML
 # Exemple : config.model.name
 python-box==6.0.2
 
+setuptools
+
 # Installe le projet local en mode éditable
 # Nécessite un setup.py ou un pyproject.toml valide
 -e .

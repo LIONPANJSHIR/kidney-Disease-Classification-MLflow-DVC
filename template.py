@@ -22,7 +22,7 @@ logging.basicConfig(
 
 
 # Nom principal du projet et du package Python
-project_name = "CNNClassifier_kidney_disease"
+project_name = "CNNClassifier"
 
 
 # Liste des dossiers et fichiers qui composeront la structure du projet

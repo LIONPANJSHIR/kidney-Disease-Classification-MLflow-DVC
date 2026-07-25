@@ -1,0 +1,6 @@
+README.md
+setup.py
+CNNClassifier.egg-info/PKG-INFO
+CNNClassifier.egg-info/SOURCES.txt
+CNNClassifier.egg-info/dependency_links.txt
+CNNClassifier.egg-info/top_level.txt
